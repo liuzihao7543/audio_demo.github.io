@@ -1,37 +1,8 @@
-## Welcome to GitHub Pages
+## Audio Demo
 
-You can use the [editor on GitHub](https://github.com/liuzihao7543/audio_demo.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Welcome to the demo page an audio-based project. We here invite you to evaluate the quality of the audio pairs.
+Your evalution is highlt appreciate! We standarlize the evalution in the following way.  We present two audio pairs a time. You will choose the one as requirement based on your subjective opinion.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Setting 1 Fake speech VS Real Speech
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/liuzihao7543/audio_demo.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
